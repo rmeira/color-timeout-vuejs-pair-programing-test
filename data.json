@@ -1,0 +1,14 @@
+[
+  {
+    "color": "red",
+    "timeout": 2000
+  },
+  {
+    "color": "blue",
+    "timeout": 1500
+  },
+  {
+    "color": "green",
+    "timeout": 3000
+  }
+]
