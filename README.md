@@ -1,4 +1,4 @@
-# t
+# Color
 
 ## Project setup
 ```
